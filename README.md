@@ -3,7 +3,7 @@
 
 - 🏫 I am pursuing **B. Tech in Artificial Intelligence and Data Science**
 
-- 🌱 I’m currently learning **machine learning and we development**
+- 🌱 I’m currently learning **machine learning and web development**
 
 - 🔭 I’m currently working on **HealthBuddy**
 
