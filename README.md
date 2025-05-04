@@ -2,7 +2,6 @@
 <h3 align="center">A passionate developer from India</h3>
 
 - 🏫 I am pursuing **B. Tech in Artificial Intelligence and Data Science**
-
 - 🌱 I’m currently learning **machine learning and web development**
 
 - 🔭 I’m currently working on **HealthBuddy**
