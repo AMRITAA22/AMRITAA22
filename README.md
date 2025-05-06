@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMRITA</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 🏫 I am pursuing **B. Tech in Artificial Intelligence and Data Science**
 - 🌱 I’m currently learning **machine learning and web development**
