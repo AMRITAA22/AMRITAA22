@@ -3,7 +3,7 @@
 
 - 🏫 I am pursuing **B. Tech in Artificial Intelligence and Data Science**
 - 🌱 I’m currently learning **machine learning and web development**
-- 🔭 I’m currently working on **HealthBuddy**
+
 - 📫 How to reach me **amritaa2202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
